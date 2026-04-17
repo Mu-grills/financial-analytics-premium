@@ -9,12 +9,12 @@ Dashboard financeiro estratégico desenvolvido em Power BI para monitoramento de
 ### 1. Visão Geral (Geral)
 Análise consolidada de Recebimentos, Custos, Impostos e Lucro. Destaque para a Margem Operacional de **77,54%** e o gráfico de cascata mostrando a evolução positiva do lucro mensal.
 
-![Visão Geral](./dashprint.png)
+![Visão Geral](assets/dashprint.png)
 
 ### 2. Análise Interativa (Filtro por Instituição)
 Demonstração da interatividade do painel ao filtrar pelo **Nubank**. O dashboard revela uma variação crítica na performance, com a margem caindo para **0,60%** e custos elevados, evidenciando o poder de diagnóstico da ferramenta.
 
-![Filtro Interativo](./dashprfilter.png)
+![Filtro Interativo](assets/dashprfilter.png)
 
 ---
 
